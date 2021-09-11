@@ -1,0 +1,53 @@
+[read_more]
+other = "読む続く"
+
+[copyright]
+other = "Copyright"
+
+[all_rights]
+other = "All Rights Reserved"
+
+[share_on]
+other = "シェアー"
+
+[featured_posts]
+other = "注目の記事"
+
+[recent_posts]
+other = "最新文章"
+
+[404_title]
+other = "該当ページを見つかれませ"
+
+[could_not_find]
+other = "ページが存在しないか、削除され他可能性があります"
+
+[go_back]
+other = "戻る"
+
+[translations]
+other = "翻訳"
+
+[categories]
+other = "分類"
+
+[tags]
+other = "タグ"
+
+[series]
+other = "コラム"
+
+[all_categories]
+other = "すべてのカテゴリ"
+
+[all_tags]
+other = "すべてのタグ"
+
+[all_series]
+other = "すべてのコラム"
+
+[overview]
+other = "文章目次"
+
+[reading_time]
+other = "{{ .ReadingTime }} min read"
